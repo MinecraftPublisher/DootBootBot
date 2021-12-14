@@ -48,6 +48,7 @@
 1|melk|🥛
 1|doot|DootDoot!
 1|boot|DootDoot!
+1|duck|🐤
 2|muck|
 2|fuck|
 2|cock|
