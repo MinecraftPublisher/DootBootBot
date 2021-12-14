@@ -4,6 +4,8 @@
 0|hey dootboot|Yea?
 0|oh hey dootbootbot|Hi there!
 0|hey dootbootbot|Hey!
+0|who is dootboot|I'm dootboot!
+0|why are you named dootboot|Because my name is dootboot
 0|bad bot|Trust me, No bot is bad. ever. It's not their fault that they were made.
 0|oh you dont know what karlson is|Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
 0|whats karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
@@ -43,6 +45,8 @@
 1|persian|I see you are a man of culture.
 1|milk|🥛
 1|melk|🥛
+1|doot|DootDoot!
+1|boot|DootDoot!
 2|muck|
 2|fuck|
 2|cock|
