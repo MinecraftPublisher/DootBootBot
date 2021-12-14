@@ -1,34 +1,39 @@
-hello|Hey there!
-hi|Hello there!
-dootboot|
-hey dootboot|
-oh hey dootbootbot|
-hey dootbootbot|
-bad bot|Trust me, No bot is bad. ever. It's not their fault that they were made.
-oh you dont know what karlson is|Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
-whats karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
-what is karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
-karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
-dootbootbot|
-upvote me|If you deserve it, Sure!
-good bot|\#bot_support_for_life :)
-hey|Hey there!
-egg|Here is the egg: 🥚
-emoji|😶‍🌫️
-#bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
-bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
-dani|Dani he cool
-github|Idk which repo or which user you want on github, but here is mine: https://github.com/MinecraftPublisher/DootBootBot/
-update triggers|Check my repo to do so! https://github.com/MinecraftPublisher/DootBootBot/
-hananelroe|That's the guy who made danidevchainbreaker!
-danidevchainbreaker|That's the bot who stops *muck chains*!
-crab game|KERAB GEIM! 🦀🦀🦀
-where is dootboot|I'm here!
-where are you dootboot|I'm here!
-#**shut** ___  ^(i'm just a simple bot that wants to stop muck chains, [here is my source code](https://github.com/hananelroe/muck-chains-stopper-bot))   ^(oh and if you're a real boner - upvote this comment. it helps my karma.)  ^(i'm a collaboration between u/‌danidevchainbreaker and u/‌norecap_bot)|Hey there u/DaniDevChainBreaker!
-milk|🥛
-muck|hehe i broke your little chainy chainy!
-kcum|hehe i broke your little chainy chainy!
-muc|hehe i broke your little chainy chainy!
-lore|
-yes|stay tuned.
+0|hello|Hey there!
+0|hi|Hello there!
+0|dootboot|
+0|hey dootboot|
+0|oh hey dootbootbot|
+0|hey dootbootbot|
+0|bad bot|Trust me, No bot is bad. ever. It's not their fault that they were made.
+0|oh you dont know what karlson is|Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
+0|whats karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
+0|what is karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
+0|karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
+0|dootbootbot|
+0|upvote me|If you deserve it, Sure!
+0|good bot|#bot_support_for_life :)
+0|hey|Hey there!
+0|egg|Here is the egg: 🥚
+0|emoji|😶‍🌫️
+0|#bot_support_for_life|Thanks for supporting us! #bot_support_for_life!
+0|bot_support_for_life|Thanks for supporting us! #bot_support_for_life!
+0|dani|Dani he cool
+0|github|Idk which repo or which user you want on github, but here is mine: https://github.com/MinecraftPublisher/DootBootBot/
+0|update triggers|Check my repo to do so! https://github.com/MinecraftPublisher/DootBootBot/
+0|hananelroe|That's the guy who made danidevchainbreaker!
+0|danidevchainbreaker|That's the bot who stops *muck chains*!
+0|crab game|KERAB GEIM! 🦀🦀🦀
+0|where is dootboot|I'm here!
+0|where are you dootboot|I'm here!
+0|#**shut** ___  ^(i'm just a simple bot that wants to stop muck chains, [here is my source code](https://github.com/hananelroe/muck-chains-stopper-bot))   ^(oh and if you're a real boner - upvote this comment. it helps my karma.)  ^(i'm a collaboration between u/‌danidevchainbreaker and u/‌norecap_bot)|Hey there u/DaniDevChainBreaker!
+0|milk|🥛
+0|muck|hehe i broke your little chainy chainy!
+0|kcum|hehe i broke your little chainy chainy!
+0|muc|hehe i broke your little chainy chainy!
+0|lore|
+0|yes|stay tuned.
+1|شیر|I see you are a man of culture.
+1|shir|I see you are a man of culture.
+1|فارسی|I see you are a man of culture.
+1|farsi|I see you are a man of culture.
+1|persian|I see you are a man of culture.
