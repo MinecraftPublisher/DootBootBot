@@ -33,6 +33,8 @@
 0|muc|hehe i broke your little chainy chainy!
 0|Wow that is really cool|Wow that is really cool
 0|Wow that was really cool|Wow that was really cool
+0|are you a bot|Perhpas...
+0|are you really a bot|Maybe...!
 1|شیر|I see you are a man of culture.
 1|shir|I see you are a man of culture.
 1|فارسی|I see you are a man of culture.
