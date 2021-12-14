@@ -35,6 +35,7 @@
 0|Wow that was really cool|Wow that was really cool
 0|are you a bot|Perhpas...
 0|are you really a bot|Maybe...!
+0|thicc|# *T H I C C*
 1|شیر|I see you are a man of culture.
 1|shir|I see you are a man of culture.
 1|فارسی|I see you are a man of culture.
