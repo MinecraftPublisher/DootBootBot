@@ -14,7 +14,6 @@ good bot|\#bot_support_for_life :)
 hey|Hey there!
 egg|Here is the egg: 🥚
 emoji|😶‍🌫️
-\#bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
 #bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
 bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
 dani|Dani he cool
@@ -25,5 +24,6 @@ danidevchainbreaker|That's the bot who stops *muck chains*!
 crab game|KERAB GEIM! 🦀🦀🦀
 where is dootboot|I'm here!
 where are you dootboot|I'm here!
-muck|nonono. chains bad.
 #**shut** ___  ^(i'm just a simple bot that wants to stop muck chains, [here is my source code](https://github.com/hananelroe/muck-chains-stopper-bot))   ^(oh and if you're a real boner - upvote this comment. it helps my karma.)  ^(i'm a collaboration between u/‌danidevchainbreaker and u/‌norecap_bot)|Hey there u/DaniDevChainBreaker!
+oh hey dootbootbot|hey there!
+hey dootbootbot|hi!
