@@ -25,7 +25,7 @@
 0|update triggers|Check my repo to do so! https://github.com/MinecraftPublisher/DootBootBot/
 0|hananelroe|That's the guy who made danidevchainbreaker!
 0|danidevchainbreaker|That's the bot who stops *muck chains*!
-0|crab game|KERAB GEIM! 🦀🦀🦀
+0|crab game|🦀
 0|where is dootboot|I'm here!
 0|where are you dootboot|I'm here!
 0|#**shut** ___  ^(i'm just a simple bot that wants to stop muck chains, [here is my source code](https://github.com/hananelroe/muck-chains-stopper-bot))   ^(oh and if you're a real boner - upvote this comment. it helps my karma.)  ^(i'm a collaboration between u/‌danidevchainbreaker and u/‌norecap_bot)|Hey there u/DaniDevChainBreaker!
@@ -38,6 +38,7 @@
 0|are you a bot|Perhpas...
 0|are you really a bot|Maybe...!
 0|thicc|# *T H I C C*
+1|dootboot|I have been summoned!
 1|شیر|I see you are a man of culture.
 1|shir|I see you are a man of culture.
 1|فارسی|I see you are a man of culture.
