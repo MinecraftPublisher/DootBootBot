@@ -38,6 +38,8 @@
 0|are you a bot|Perhpas...
 0|are you really a bot|Maybe...!
 0|thicc|# *T H I C C*
+0|wow that was really cool|wow that was really cool
+0|wow that was very cool|wow that was really cool
 1|dootboot|I have been summoned!
 1|شیر|I see you are a man of culture.
 1|shir|I see you are a man of culture.
