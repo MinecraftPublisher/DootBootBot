@@ -37,3 +37,4 @@
 1|فارسی|I see you are a man of culture.
 1|farsi|I see you are a man of culture.
 1|persian|I see you are a man of culture.
+1|milk|🥛
