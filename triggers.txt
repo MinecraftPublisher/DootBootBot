@@ -31,3 +31,4 @@ muck|SHUT
 kcum|SHUT
 muc|SHUT
 lore|
+yes|stay tuned.
