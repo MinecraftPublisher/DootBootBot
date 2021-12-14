@@ -11,12 +11,13 @@
 0|karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
 0|dootbootbot|
 0|upvote me|If you deserve it, Sure!
-0|good bot|#bot_support_for_life :)
+0|good bot|\#bot_support_for_life :)
 0|hey|Hey there!
 0|egg|Here is the egg: 🥚
 0|emoji|😶‍🌫️
-0|#bot_support_for_life|Thanks for supporting us! #bot_support_for_life!
-0|bot_support_for_life|Thanks for supporting us! #bot_support_for_life!
+0|#bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
+0|\#bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
+0|bot_support_for_life|Thanks for supporting us! \#bot_support_for_life!
 0|dani|Dani he cool
 0|github|Idk which repo or which user you want on github, but here is mine: https://github.com/MinecraftPublisher/DootBootBot/
 0|update triggers|Check my repo to do so! https://github.com/MinecraftPublisher/DootBootBot/
