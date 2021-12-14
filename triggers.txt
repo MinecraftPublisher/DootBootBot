@@ -43,3 +43,8 @@
 1|persian|I see you are a man of culture.
 1|milk|🥛
 1|melk|🥛
+2|muck|
+2|fuck|
+2|cock|
+2|dick|
+2|bad bot|
