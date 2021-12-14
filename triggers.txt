@@ -1,14 +1,14 @@
 hello|Hey there!
 hi|Hello there!
-dootboot|That's my name
-hey dootboot|Yes?
-updoot|doot doot
+dootboot|
+hey dootboot|
+updoot|
 bad bot|Trust me, No bot is bad. ever. It's not their fault that they were made.
 oh you dont know what karlson is|Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
 whats karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
 what is karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
 karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
-dootbootbot|Hello! I'm here!
+dootbootbot|
 upvote me|If you deserve it, Sure!
 good bot|\#bot_support_for_life :)
 hey|Hey there!
@@ -25,5 +25,9 @@ crab game|KERAB GEIM! 🦀🦀🦀
 where is dootboot|I'm here!
 where are you dootboot|I'm here!
 #**shut** ___  ^(i'm just a simple bot that wants to stop muck chains, [here is my source code](https://github.com/hananelroe/muck-chains-stopper-bot))   ^(oh and if you're a real boner - upvote this comment. it helps my karma.)  ^(i'm a collaboration between u/‌danidevchainbreaker and u/‌norecap_bot)|Hey there u/DaniDevChainBreaker!
-oh hey dootbootbot|hey there!
-hey dootbootbot|hi!
+oh hey dootbootbot|
+hey dootbootbot|
+muck|SHUT
+kcum|SHUT
+muc|SHUT
+lore|
