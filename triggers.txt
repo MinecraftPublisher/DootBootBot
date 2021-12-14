@@ -1,9 +1,9 @@
 0|hello|Hey there!
 0|hi|Hello there!
-0|dootboot|
-0|hey dootboot|
-0|oh hey dootbootbot|
-0|hey dootbootbot|
+0|dootboot|That's me!
+0|hey dootboot|Yea?
+0|oh hey dootbootbot|Hi there!
+0|hey dootbootbot|Hey!
 0|bad bot|Trust me, No bot is bad. ever. It's not their fault that they were made.
 0|oh you dont know what karlson is|Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
 0|whats karlson|Oh you don't know what karlson is? Karlson is a game dani is working on, YOU BETTER WISHLIST IT ON STEAM NOW GAMER
@@ -30,8 +30,8 @@
 0|muck|hehe i broke your little chainy chainy!
 0|kcum|hehe i broke your little chainy chainy!
 0|muc|hehe i broke your little chainy chainy!
-0|lore|
-0|yes|stay tuned.
+0|Wow that is really cool|Wow that is really cool
+0|Wow that was really cool|Wow that was really cool
 1|شیر|I see you are a man of culture.
 1|shir|I see you are a man of culture.
 1|فارسی|I see you are a man of culture.
