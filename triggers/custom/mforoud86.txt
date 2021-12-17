@@ -1,0 +1,1 @@
+0|dootboot-trigger|How to create your own dootboot triggers: Make a pull request on [this repo](https://github.com/MinecraftPublisher/DootBootBot/) and add a file in the custom directory with your custom triggers. Enjoy!
