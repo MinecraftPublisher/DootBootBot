@@ -47,3 +47,5 @@
 1|melk|🥛
 1|doot|DootDoot!
 1|boot|DootDoot!
+1|copyright|No, I didn't copyright anybody. The text means that my outputs and behaviors cannot legally be copied and/or replicated by someone who is not me.
+1|copywrit|No, I didn't copyright anybody. The text means that my outputs and behaviors cannot legally be copied and/or replicated by someone who is not me.
