@@ -39,7 +39,6 @@
 0|wow that was very cool|wow that was really cool
 1|dootboot|I have been summoned!
 1|شیر|I see you are a man of culture.
-1|shir|I see you are a man of culture.
 1|فارسی|I see you are a man of culture.
 1|farsi|I see you are a man of culture.
 1|persian|I see you are a man of culture.
